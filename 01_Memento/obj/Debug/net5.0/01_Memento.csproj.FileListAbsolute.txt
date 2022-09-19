@@ -1,0 +1,16 @@
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\01_Memento.exe
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\01_Memento.deps.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\01_Memento.runtimeconfig.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\01_Memento.runtimeconfig.dev.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\01_Memento.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\ref\01_Memento.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\bin\Debug\net5.0\01_Memento.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.csproj.AssemblyReference.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.AssemblyInfoInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.AssemblyInfo.cs
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.csproj.CoreCompileInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\ref\01_Memento.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220605_Lecture\01_Memento\obj\Debug\net5.0\01_Memento.genruntimeconfig.cache
